@@ -24,5 +24,8 @@ header{
         justify-content: center;
         font-weight: 400;
     }
-    nav a {}
+    nav a {
+        text-decoration: none;
+        
+    }
 }
